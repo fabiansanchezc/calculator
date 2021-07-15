@@ -1,3 +1,4 @@
 class Calculator{
-    
+    sum(){}
+    substract(){}
 }
